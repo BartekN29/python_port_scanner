@@ -1,6 +1,3 @@
 # python port scanner
 Port scanner made in python.
-To run scanner You need python libraries:
--socket
--tqdm
--colorama
+To run scanner You need these python libraries: socket, tqdm, colorama.
