@@ -1,6 +1,9 @@
 import socket
+import pyfiglet
 from tqdm import tqdm
 from colorama import init, Fore, Style
+
+print(pyfiglet.figlet_format("Port Scanner"))
 
 init()
 
